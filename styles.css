@@ -1,0 +1,14 @@
+* {
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mainTitle {
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    color:blue;
+    list-style-type: none;
+}
