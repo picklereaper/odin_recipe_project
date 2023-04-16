@@ -12,3 +12,14 @@
     color:blue;
     list-style-type: none;
 }
+
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.intro {
+    text-align: center;
+}
