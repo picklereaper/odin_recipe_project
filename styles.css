@@ -1,5 +1,5 @@
 * {
-    background-color: whitesmoke;
+    background-color: burlywood;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -22,4 +22,12 @@
 
 .intro {
     text-align: center;
+}
+
+.sources {
+    background-color: cadetblue;
+}
+
+.linkSource {
+    background-color: cadetblue;
 }
